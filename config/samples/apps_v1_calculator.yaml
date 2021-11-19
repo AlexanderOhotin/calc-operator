@@ -1,0 +1,10 @@
+apiVersion: apps.sd01dev.com/v1
+kind: Calculator
+metadata:
+  name: example-one
+spec:
+  x: 6
+  z: 11
+status:
+  processed: false
+  result:
